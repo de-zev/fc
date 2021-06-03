@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Динамо
+        </title>
+    </head>
+    <body>
+        <h1>Динамо</h1>
+        <a href="https://fcdynamo.ru">
+            <img src="dynamo.png" width=200>
+        </a>
+    </body>
+</html>

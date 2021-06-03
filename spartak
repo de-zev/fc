@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Спартак
+        </title>
+    </head>
+    <body>
+        <h1>Спартак</h1>
+        <a href="https://spartak.com">
+            <img src="spartak.png" width=200>
+        </a>
+    </body>
+</html>

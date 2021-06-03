@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Ростов
+        </title>
+    </head>
+    <body>
+        <h1>Ростов</h1>
+        <a href="https://fc-rostov.ru">
+            <img src="rostov.png" width=200>
+        </a>
+    </body>
+</html>

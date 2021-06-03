@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Тамбов
+        </title>
+    </head>
+    <body>
+        <h1>Тамбов</h1>
+        <a href="http://fc-tambov.ru">
+            <img src="tambov.png" width=200>
+        </a>
+    </body>
+</html>

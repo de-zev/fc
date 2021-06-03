@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Справочник по футбольным клубам
+        </title>
+    </head>
+    <body>
+        <h1>СПРАВОЧНИК ПО ФУТБОЛЬНЫМ КЛУБАМ</h1>
+        <ol>
+            <li>
+                <img src="arsenal.png" height=15>
+                <a href="arsenal">Арсенал</a>
+            <li>
+                <img src="akhmat.png" height=15>
+                <a href="akhmat">Ахмат</a>
+            <li>
+                <img src="dynamo.png" height=15>
+                <a href="dynamo">Динамо</a>
+            <li>
+                <img src="zenit.png" height=15>
+                <a href="zenit">Зенит</a>
+            <li>
+                <img src="krasnodar.png" height=15>
+                <a href="krasnodar">Краснодар</a>
+            <li>
+                <img src="lokomotiv.png" height=15>
+                <a href="lokomotiv">Локомотив</a>
+            <li>
+                <img src="rostov.png" height=15>
+                <a href="rostov">Ростов</a>
+            <li>
+                <img src="rotor.png" height=15>
+                <a href="rotor">Ротор</a>
+            <li>
+                <img src="rubin.png" height=15>
+                <a href="rubin">Рубин</a>
+            <li>
+                <img src="sochi.png" height=15>
+                <a href="sochi">Сочи</a>
+            <li>
+                <img src="spartak.png" height=15>
+                <a href="spartak">Спартак</a>
+            <li>
+                <img src="tambov.png" height=15>
+                <a href="tambov">Тамбов</a>
+            <li>
+                <img src="ural.png" height=15>
+                <a href="ural">Урал</a>
+            <li>
+                <img src="ufa.png" height=15>
+                <a href="ufa">Уфа</a>
+            <li>
+                <img src="khimki.png" height=15>
+                <a href="khimki">Химки</a>
+            <li>
+                <img src="cska.png" height=15>
+                <a href="cska">ЦСКА</a>
+        </ol>
+    </body>
+</html>

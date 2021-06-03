@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Арсенал
+        </title>
+    </head>
+    <body>
+        <h1>Арсенал</h1>
+        <a href="https://arsenaltula.ru">
+            <img src="arsenal.png" width=200>
+        </a>
+    </body>
+</html>

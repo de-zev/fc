@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Урал
+        </title>
+    </head>
+    <body>
+        <h1>Урал</h1>
+        <a href="http://fc-ural.ru">
+            <img src="ural.png" width=200>
+        </a>
+    </body>
+</html>

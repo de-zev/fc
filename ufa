@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Уфа
+        </title>
+    </head>
+    <body>
+        <h1>Уфа</h1>
+        <a href="https://www.fcufa.pro">
+            <img src="ufa.png" width=200>
+        </a>
+    </body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Сочи
+        </title>
+    </head>
+    <body>
+        <h1>Сочи</h1>
+        <a href="https://pfcsochi.ru">
+            <img src="sochi.png" width=200>
+        </a>
+    </body>
+</html>

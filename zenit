@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Зенит
+        </title>
+    </head>
+    <body>
+        <h1>Зенит</h1>
+        <a href="https://fc-zenit.ru">
+            <img src="zenit.png" width=200>
+        </a>
+    </body>
+</html>
